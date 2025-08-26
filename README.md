@@ -61,8 +61,3 @@ It provides interactive insights into **revenue trends, sales quantities, top cu
 4. **Investigate Decline in 2020** – Identify causes for revenue drop and create recovery plans.  
 
 ---
-
-## 🛠 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/shreenissh/atliq-hardware-sales-dashboard.git
